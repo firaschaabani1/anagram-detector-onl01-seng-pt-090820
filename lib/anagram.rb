@@ -6,7 +6,8 @@ anagram = %w[enlists google inlets banana]
 def intialize (anagram)
   @anagram = anagram
   anagram.match (listen)
-  put
+end
+
 
   
   
