@@ -1,1 +1,1 @@
-
+attr_reader
