@@ -4,5 +4,8 @@ attr_writer :anagram
 new array = []
 
 def intialize (anagram)
+  @anagram = anagram
+  anagram.match ()
+
   
   
