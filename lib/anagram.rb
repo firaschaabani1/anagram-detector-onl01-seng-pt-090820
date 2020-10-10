@@ -5,7 +5,7 @@ new array = []
 
 def intialize (anagram)
   @anagram = anagram
-  anagram.match ()
+  anagram.match (listen)
 
   
   
