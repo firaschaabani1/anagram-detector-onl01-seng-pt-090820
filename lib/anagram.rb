@@ -1,4 +1,7 @@
-attr_reader :word
+attr_reader :anagram
 attr_writer :anagram
 
-def intialize 
+new array = 
+
+def intialize (anagram
+  )
