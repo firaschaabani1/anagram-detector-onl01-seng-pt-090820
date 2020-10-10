@@ -5,3 +5,4 @@ new array = []
 
 def intialize (anagram)
   
+  
